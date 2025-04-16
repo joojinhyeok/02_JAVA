@@ -1,4 +1,4 @@
-package practice.ch06.sec06.exam02;
+package main.java.practice.ch06.sec07.exam02;
 
 public class KoreanExample {
     public static void main(String[] args) {

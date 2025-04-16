@@ -1,4 +1,4 @@
-package practice.ch06.sec06.exam05;
+package main.java.practice.ch06.sec07.exam05;
 
 public class Car {
     // 필드 선언
@@ -7,6 +7,7 @@ public class Car {
     String color;
     int maxSpeed;
 
+    Car(){}
     Car(String model) {
         this(model, "검정", 200);
     }

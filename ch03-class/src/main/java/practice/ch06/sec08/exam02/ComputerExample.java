@@ -1,4 +1,4 @@
-package practice.ch06.sec08.exam02;
+package main.java.practice.ch06.sec08.exam02;
 
 public class ComputerExample {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package practice.ch06.sec06.exam01;
+package main.java.practice.ch06.sec06.exam01;
 
 public class Car {
     //필드 선언
