@@ -8,7 +8,7 @@ public class IfDiceExample {
         // 1~6 사이의 값을 랜덤
         // Math.random: 0.0 ~ 1.0미만
 
-        int num = (int)(Math.random() * 6) + 1;
+        int num = (int)(Math.random() * 5) + 1;
 
         // 0~인자로 준값(bound)
         Random rand = new Random(); // new를 사용해서 heap에 올려둠
