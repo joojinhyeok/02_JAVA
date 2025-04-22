@@ -5,8 +5,8 @@ public class CastingExample {
         Vehicle vehicle = new Bus();
 
         vehicle.run();
-        if(vehicle instanceof Bus){
-            ((Bus) vehicle).checkFare();
+        if(vehicle instanceof Bus bus){
+            bus.checkFare();
         }
 
         Bus bus = new Bus();
