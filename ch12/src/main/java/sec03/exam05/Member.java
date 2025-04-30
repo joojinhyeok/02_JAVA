@@ -1,4 +1,4 @@
-package sec03.exam05;
+package ch12.src.main.java.sec03.exam05;
 
 import lombok.*;
 
