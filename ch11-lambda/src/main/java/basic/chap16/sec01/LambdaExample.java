@@ -1,4 +1,4 @@
-package basic.chap16.sec01;
+package main.java.basic.chap16.sec01;
 
 public class LambdaExample {
     public static void main(String[] args) {
@@ -21,6 +21,7 @@ public class LambdaExample {
 
         // 2번 -> 익명클래스 활용
         Calculable c1 = new Calculable() {
+            // Override로 calculate 재정의해서 사용
             @Override
             public void calculate(int x, int y) {
                 System.out.println("익명클래스 사용: " + (x+y));

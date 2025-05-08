@@ -1,4 +1,4 @@
-package basic.chap16.sec01;
+package main.java.basic.chap16.sec01;
 
 /*
 * 함수형 인터페이스

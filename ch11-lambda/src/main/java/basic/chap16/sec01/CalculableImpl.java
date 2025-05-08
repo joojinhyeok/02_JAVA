@@ -1,4 +1,4 @@
-package basic.chap16.sec01;
+package main.java.basic.chap16.sec01;
 
 public class CalculableImpl implements Calculable{
     @Override
